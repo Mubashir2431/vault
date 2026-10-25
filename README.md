@@ -17,6 +17,16 @@ Vault reads your AI conversations, turns them into durable facts about your proj
 
 Built at the Coffee & Code AI Agent Hackathon, Philadelphia — September 20, 2026.
 
+## GalaxyGate Track Winner
+
+Vault won the **GalaxyGate track award** at the Coffee & Code Philly AI Agent Hackathon (September 20, 2026, Philadelphia).
+
+<p align="center">
+  <img src="assets/coffee-and-code-ai-agent-hackathon-2026.webp" alt="Coffee &amp; Code Philly AI Agent Hackathon, September 20, 2026" width="720">
+</p>
+
+Read more in the [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7508770195306471424/).
+
 ---
 
 ## Try it
